@@ -9,3 +9,5 @@ Entendendo o que é git, Aprendendo sobre repositórios, Trabalhando com branche
 ## Título <h2>
 ### Título <h3>
 #### Título <h4>
+##### Título <h5>
+###### Título <h6>
