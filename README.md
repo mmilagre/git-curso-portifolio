@@ -4,7 +4,15 @@ Curso na Udemy de **Git** e **Github** iniciando _do zero._
 
 
 ## Módulos
-_Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando com **branches**_
+* _Entendendo o que é **git**_
+* Aprendendo sobre **repositórios**
+* Trabalhando com **branches**
+
+### Lista ordenada:
+1. Começando com git
+    1. O que é git
+2. Aprendendo sobre git
+3. Git Avançado
 
 ### Rede social:
 [Instagram](https://www.instagram.com/)
