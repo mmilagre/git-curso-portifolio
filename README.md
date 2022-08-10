@@ -1,4 +1,8 @@
 ![Logo do git](https://cdn-images-1.medium.com/max/1600/1*OLsrVuctE2DO924KoSkNLA.png)
+[Bem vindo](#bem-vindo-ao-curso-de-git-e-github) |
+[Módulos](#módulos) |
+[Rede-Social](#rede-social)
+
 # Bem vindo ao curso de Git e Github
 Curso na Udemy de **Git** e **Github** iniciando _do zero._
 
@@ -19,7 +23,7 @@ background|cor de fundo
 * Aprendendo sobre **repositórios**
 * Trabalhando com **branches**
 
-### Lista ordenada:
+_**Lista ordenada:**_
 1. Começando com git
     1. O que é git
     2. Instalando git na máquina
