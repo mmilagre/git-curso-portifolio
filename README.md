@@ -11,6 +11,7 @@ Curso na Udemy de **Git** e **Github** iniciando _do zero._
 ### Lista ordenada:
 1. Começando com git
     1. O que é git
+    2. Instalando git na máquina
 2. Aprendendo sobre git
 3. Git Avançado
 
